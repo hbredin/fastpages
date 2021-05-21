@@ -1,9 +1,8 @@
 ---
 layout: page
-title: PhD students
+title: Students
 permalink: /students/
 ---
-
 
 ### Marvin Lavechin (2019 - today)
 
@@ -19,7 +18,6 @@ permalink: /students/
 
 * **PhD** - [Machine learning for the automatic structuring of spoken conversations](http://www.theses.fr/s217292)
 * Co-supervised with Anne-Laure Ligozat (LISN) and Camille Guinaudeau (LISN)
-
 
 ### Ruiqing Yin (2016-2019)
 
