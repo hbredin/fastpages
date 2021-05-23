@@ -1,1 +1,1 @@
-Sitemap: https://hbredin.github.io/fastpages/sitemap.xml
+Sitemap: https://herve.niderb.fr/sitemap.xml
