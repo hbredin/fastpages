@@ -1,1 +1,1 @@
-Sitemap: https://herve.niderb.fr/sitemap.xml
+Sitemap: https://herve.niderb.fr/fastpages/sitemap.xml

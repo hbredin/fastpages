@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://herve.niderb.fr/about/</loc>
+<loc>https://herve.niderb.fr/fastpages/about/</loc>
 </url>
 <url>
-<loc>https://herve.niderb.fr/</loc>
+<loc>https://herve.niderb.fr/fastpages/</loc>
 </url>
 <url>
-<loc>https://herve.niderb.fr/search/</loc>
+<loc>https://herve.niderb.fr/fastpages/search/</loc>
 </url>
 <url>
-<loc>https://herve.niderb.fr/students/</loc>
+<loc>https://herve.niderb.fr/fastpages/students/</loc>
 </url>
 <url>
-<loc>https://herve.niderb.fr/categories/</loc>
+<loc>https://herve.niderb.fr/fastpages/categories/</loc>
 </url>
 </urlset>
