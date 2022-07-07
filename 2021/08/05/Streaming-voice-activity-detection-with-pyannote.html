@@ -231,7 +231,7 @@ Here, we are going to fake it by sliding a 5s window over the duration of an aud
         <span class="k">for</span> <span class="n">chunk</span> <span class="ow">in</span> <span class="n">window</span><span class="p">:</span>
             <span class="c1"># for each position of the window, yield the corresponding audio buffer</span>
             <span class="c1"># as a SlidingWindowFeature instance</span>
-            <span class="n">waveform</span><span class="p">,</span> <span class="n">sample_rate</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">crop</span><span class="p">(</span><span class="n">file</span><span class="p">,</span> <span class="n">chunk</span><span class="p">,</span> <span class="n">fixed</span><span class="o">=</span><span class="bp">self</span><span class="o">.</span><span class="n">duration</span><span class="p">)</span>
+            <span class="n">waveform</span><span class="p">,</span> <span class="n">sample_rate</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">crop</span><span class="p">(</span><span class="n">file</span><span class="p">,</span> <span class="n">chunk</span><span class="p">,</span> <span class="n">duration</span><span class="o">=</span><span class="bp">self</span><span class="o">.</span><span class="n">duration</span><span class="p">)</span>
             <span class="n">resolution</span> <span class="o">=</span> <span class="n">SlidingWindow</span><span class="p">(</span><span class="n">start</span><span class="o">=</span><span class="n">chunk</span><span class="o">.</span><span class="n">start</span><span class="p">,</span> 
                                        <span class="n">duration</span><span class="o">=</span><span class="mf">1.</span><span class="o">/</span><span class="bp">self</span><span class="o">.</span><span class="n">sample_rate</span><span class="p">,</span> 
                                        <span class="n">step</span><span class="o">=</span><span class="mf">1.</span><span class="o">/</span><span class="n">sample_rate</span><span class="p">)</span>
@@ -1302,7 +1302,7 @@ This has been enabled by the longer latency.</p>
       </div>
     </div>
 
-    <div class="social-links"><ul class="social-media-list"><li><a rel="me" href="https://github.com/hbredin" title="hbredin"><svg class="svg-icon grey"><use xlink:href="/fastpages/assets/minima-social-icons.svg#github"></use></svg></a></li><li><a rel="me" href="https://twitter.com/hbredin" title="hbredin"><svg class="svg-icon grey"><use xlink:href="/fastpages/assets/minima-social-icons.svg#twitter"></use></svg></a></li></ul>
+    <div class="social-links"><ul class="social-media-list"><li><a rel="me" href="https://github.com/hbredin" target="_blank" title="hbredin"><svg class="svg-icon grey"><use xlink:href="/fastpages/assets/minima-social-icons.svg#github"></use></svg></a></li><li><a rel="me" href="https://twitter.com/hbredin" target="_blank" title="hbredin"><svg class="svg-icon grey"><use xlink:href="/fastpages/assets/minima-social-icons.svg#twitter"></use></svg></a></li></ul>
 </div>
 
   </div>
