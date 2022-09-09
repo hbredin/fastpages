@@ -16,12 +16,13 @@ permalink: /collab/
 * [Active representation learning](http://www.theses.fr/s225375)
 * Co-supervised with Sophie Rosset (LISN) and Sahar Ghannay (LISN)
 
-### Léo Galmant (2018 - today)
+
+## Former PhD students
+
+### Léo Galmant (2018 - 2020)
 
 * [Machine learning for the automatic structuring of spoken conversations](http://www.theses.fr/s217292)
 * Co-supervised with Anne-Laure Ligozat (LISN) and Camille Guinaudeau (LISN)
-
-## Former PhD students
 
 ### Ruiqing Yin (2016-2019)
 
