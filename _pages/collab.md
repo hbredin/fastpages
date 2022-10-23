@@ -6,22 +6,23 @@ permalink: /collab/
 
 ## Current PhD students
 
-### Marvin Lavechin (2019 - today)
+### [Marvin Lavechin](https://marvinlvn.github.io/) (2019 - today)
 
 * [Unsupervised and multimodal protolexicon discovery](http://www.theses.fr/s257634)
 * Co-supervised with Alejandrina Cristia (LSCP) and Emmanuel Dupoux (LSCP, FAIR)
 
-### Juan Manuel Coria (2019 - today)
+### [Juan Manuel Coria](https://juanmc2005.github.io/) (2019 - today)
 
 * [Active representation learning](http://www.theses.fr/s225375)
 * Co-supervised with Sophie Rosset (LISN) and Sahar Ghannay (LISN)
 
-### Léo Galmant (2018 - today)
+
+## Former PhD students
+
+### Léo Galmant (2018 - 2020)
 
 * [Machine learning for the automatic structuring of spoken conversations](http://www.theses.fr/s217292)
 * Co-supervised with Anne-Laure Ligozat (LISN) and Camille Guinaudeau (LISN)
-
-## Former PhD students
 
 ### Ruiqing Yin (2016-2019)
 
