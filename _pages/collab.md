@@ -16,6 +16,9 @@ permalink: /collab/
 * [Active representation learning](http://www.theses.fr/s225375)
 * Co-supervised with Sophie Rosset (LISN) and Sahar Ghannay (LISN)
 
+### [Alexis Plaquet](https://FrenchKrab.github.io) (2022 - today)
+
+* Interactive speaker diarization
 
 ## Former PhD students
 
